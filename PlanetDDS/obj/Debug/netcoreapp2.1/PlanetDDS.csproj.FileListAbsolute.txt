@@ -1,0 +1,14 @@
+D:\SF.Code\PlanetDDS\PlanetDDS\bin\Debug\netcoreapp2.1\PlanetDDS.deps.json
+D:\SF.Code\PlanetDDS\PlanetDDS\bin\Debug\netcoreapp2.1\PlanetDDS.runtimeconfig.json
+D:\SF.Code\PlanetDDS\PlanetDDS\bin\Debug\netcoreapp2.1\PlanetDDS.runtimeconfig.dev.json
+D:\SF.Code\PlanetDDS\PlanetDDS\bin\Debug\netcoreapp2.1\PlanetDDS.dll
+D:\SF.Code\PlanetDDS\PlanetDDS\obj\Debug\netcoreapp2.1\PlanetDDS.csprojAssemblyReference.cache
+D:\SF.Code\PlanetDDS\PlanetDDS\obj\Debug\netcoreapp2.1\PlanetDDS.csproj.CoreCompileInputs.cache
+D:\SF.Code\PlanetDDS\PlanetDDS\obj\Debug\netcoreapp2.1\PlanetDDS.RazorAssemblyInfo.cache
+D:\SF.Code\PlanetDDS\PlanetDDS\obj\Debug\netcoreapp2.1\PlanetDDS.RazorAssemblyInfo.cs
+D:\SF.Code\PlanetDDS\PlanetDDS\obj\Debug\netcoreapp2.1\PlanetDDS.AssemblyInfoInputs.cache
+D:\SF.Code\PlanetDDS\PlanetDDS\obj\Debug\netcoreapp2.1\PlanetDDS.AssemblyInfo.cs
+D:\SF.Code\PlanetDDS\PlanetDDS\obj\Debug\netcoreapp2.1\PlanetDDS.RazorTargetAssemblyInfo.cache
+D:\SF.Code\PlanetDDS\PlanetDDS\bin\Debug\netcoreapp2.1\PlanetDDS.pdb
+D:\SF.Code\PlanetDDS\PlanetDDS\obj\Debug\netcoreapp2.1\PlanetDDS.dll
+D:\SF.Code\PlanetDDS\PlanetDDS\obj\Debug\netcoreapp2.1\PlanetDDS.pdb
